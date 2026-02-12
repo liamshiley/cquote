@@ -67,14 +67,6 @@ To display a random quote every time you open a terminal:
 
 Now every new terminal will greet you with an inspirational quote!
 
-### Alternative: Wait for Keypress
-
-If you prefer the quote to remain visible until you press any key:
-```bash
-(cd /path/to/cquote && ./cquotes)
-read -n 1 -s -r -p ""
-```
-
 ## Quotes Database
 
 Quotes are stored in `quotes.csv`. You can add your own quotes by following the existing format:
