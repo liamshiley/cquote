@@ -1,4 +1,4 @@
-# CQuotes
+# CQuote
 
 A lightweight C program that displays random inspirational quotes in your terminal.
 
