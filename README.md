@@ -15,7 +15,8 @@ A lightweight C program that displays random inspirational quotes in your termin
 
 - GCC compiler
 - Make
-
+- Unix-like system (Linux, macOS, BSD)
+  
 ### Compilation
 ```bash
 make
@@ -105,4 +106,5 @@ See LICENSE file for details.
 
 ## Contributing
 
-Feel free to add more quotes to `quotes.csv` or suggest improvements!
+Feel free to add more quotes to `quotes.csv` or suggest improvements! 
+(Just be sure to change the LENGTH_OF_FILE in main OR calculates file length)
